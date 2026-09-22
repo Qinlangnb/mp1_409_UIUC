@@ -1,0 +1,4297 @@
+[
+  {
+    "": 1,
+    "song_name": "不够成熟",
+    "artist": "By2",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 2,
+    "song_name": "第三人称",
+    "artist": "Hush!",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 3,
+    "song_name": "若把你",
+    "artist": "Kirsty刘瑾睿",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 4,
+    "song_name": "海海海",
+    "artist": "阿悄",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 5,
+    "song_name": "勇气大爆发",
+    "artist": "贝乐虎",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 6,
+    "song_name": "Letting go",
+    "artist": "蔡健雅",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 7,
+    "song_name": "红色高跟鞋",
+    "artist": "蔡健雅",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 8,
+    "song_name": "达尔文",
+    "artist": "蔡健雅",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 9,
+    "song_name": "给电影人的情书",
+    "artist": "蔡琴/单依纯",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 10,
+    "song_name": "说爱你",
+    "artist": "蔡依林",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 11,
+    "song_name": "特务J",
+    "artist": "蔡依林",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 12,
+    "song_name": "奇妙能力歌",
+    "artist": "陈粒",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 13,
+    "song_name": "虚拟",
+    "artist": "陈粒",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 14,
+    "song_name": "太聪明",
+    "artist": "陈绮贞",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 15,
+    "song_name": "你要的爱",
+    "artist": "戴佩妮",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 16,
+    "song_name": "特别的人",
+    "artist": "方大同",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 17,
+    "song_name": "下一站茶山刘",
+    "artist": "房东的猫",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 18,
+    "song_name": "云烟成雨",
+    "artist": "房东的猫",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 19,
+    "song_name": "雨樱花",
+    "artist": "飞儿乐队",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 20,
+    "song_name": "月牙湾",
+    "artist": "飞儿乐队",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 21,
+    "song_name": "全是爱",
+    "artist": "凤凰传奇",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 22,
+    "song_name": "水星记",
+    "artist": "郭顶",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 23,
+    "song_name": "如此",
+    "artist": "何佳乐",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 24,
+    "song_name": "123木头人",
+    "artist": "黑Girl",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 25,
+    "song_name": "我的美丽",
+    "artist": "黄绮珊",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 26,
+    "song_name": "芊芊",
+    "artist": "回音哥",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 27,
+    "song_name": "晚婚",
+    "artist": "江蕙",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 28,
+    "song_name": "阳光下的星星",
+    "artist": "金海心",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 29,
+    "song_name": "Melody Remix",
+    "artist": "锦零",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 30,
+    "song_name": "繁华唱遍",
+    "artist": "乐正绫",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 31,
+    "song_name": "九九八十一",
+    "artist": "乐正绫",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 32,
+    "song_name": "没有如果",
+    "artist": "梁静茹",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 33,
+    "song_name": "谁",
+    "artist": "廖俊涛",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 34,
+    "song_name": "恶作剧",
+    "artist": "林依晨",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 35,
+    "song_name": "你",
+    "artist": "林依晨",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 36,
+    "song_name": "至少还有你",
+    "artist": "林忆莲",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 37,
+    "song_name": "走在冷风中",
+    "artist": "刘思涵",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 38,
+    "song_name": "怎么唱情歌",
+    "artist": "刘惜君",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 39,
+    "song_name": "狐狸精",
+    "artist": "罗志祥",
+    "language": "中文",
+    "remarks": "绝中绝，无敌",
+    "initial": "中文",
+    "paid": 1
+  },
+  {
+    "": 40,
+    "song_name": "下雨天",
+    "artist": "南拳媽媽",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 41,
+    "song_name": "众生皆苦",
+    "artist": "倪莫问",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 42,
+    "song_name": "不得不爱",
+    "artist": "潘玮柏/弦子",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 43,
+    "song_name": "浓缩蓝鲸",
+    "artist": "裘德",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 44,
+    "song_name": "故梦",
+    "artist": "双笙",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 45,
+    "song_name": "我怀念的",
+    "artist": "孙燕姿",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 46,
+    "song_name": "普通朋友",
+    "artist": "陶喆",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 47,
+    "song_name": "不枉",
+    "artist": "汪小敏",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 48,
+    "song_name": "睫毛弯弯",
+    "artist": "王心凌",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 49,
+    "song_name": "彩虹的微笑",
+    "artist": "王心凌",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 50,
+    "song_name": "危险派对",
+    "artist": "王以太/刘至佳",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 51,
+    "song_name": "夏天的风",
+    "artist": "温岚",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 52,
+    "song_name": "雨爱",
+    "artist": "杨丞琳",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 53,
+    "song_name": "玫瑰与泪",
+    "artist": "银临",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 54,
+    "song_name": "路过人间",
+    "artist": "郁可唯",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 55,
+    "song_name": "99次我爱她",
+    "artist": "元若蓝",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 56,
+    "song_name": "心愿便利贴",
+    "artist": "元若蓝/吴忠明",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 57,
+    "song_name": "人质",
+    "artist": "张惠妹",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 58,
+    "song_name": "画心",
+    "artist": "张靓颖",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 59,
+    "song_name": "发如雪",
+    "artist": "周杰伦",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 60,
+    "song_name": "迷迭香",
+    "artist": "周杰伦",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 61,
+    "song_name": "雨下一整晚",
+    "artist": "周杰伦",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 62,
+    "song_name": "爱在西元前",
+    "artist": "周杰伦",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 63,
+    "song_name": "红颜如霜",
+    "artist": "周杰伦",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 64,
+    "song_name": "反方向的钟",
+    "artist": "周杰伦",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 65,
+    "song_name": "爱的城堡",
+    "artist": "卓文萱",
+    "language": "中文",
+    "remarks": "",
+    "initial": "中文"
+  },
+  {
+    "": 66,
+    "song_name": "Fly me to the moon",
+    "artist": "Claire Littley",
+    "language": "英语",
+    "remarks": "",
+    "initial": "英语"
+  },
+  {
+    "": 67,
+    "song_name": "Honeysea",
+    "artist": "Ivoris",
+    "language": "英语",
+    "remarks": "",
+    "initial": "英语"
+  },
+  {
+    "": 68,
+    "song_name": "Autumn Breeze",
+    "artist": "JIDA / Rachel Lim",
+    "language": "英语",
+    "remarks": "",
+    "initial": "英语"
+  },
+  {
+    "": 69,
+    "song_name": "Dreamy night",
+    "artist": "LilyPichu",
+    "language": "英语",
+    "remarks": "",
+    "initial": "英语"
+  },
+  {
+    "": 70,
+    "song_name": "La La Lost You",
+    "artist": "NIKI",
+    "language": "英语",
+    "remarks": "",
+    "initial": "英语"
+  },
+  {
+    "": 71,
+    "song_name": "City Of Stars",
+    "artist": "Ryan Gosling / Emma Stone",
+    "language": "英语",
+    "remarks": "",
+    "initial": "英语"
+  },
+  {
+    "": 72,
+    "song_name": "天ノ弱/天之弱",
+    "artist": "164",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 73,
+    "song_name": "６９００００００００（69亿）",
+    "artist": "(∵)キョトンP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 74,
+    "song_name": "CHO-DARI-",
+    "artist": "23.exe",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 75,
+    "song_name": "からくりピエロ（活动小丑）",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 76,
+    "song_name": "シリョクケンサ",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 77,
+    "song_name": "ドレミファロンド（哆来咪发圆舞曲）",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 78,
+    "song_name": "雨音ノイズ（雨声Noise)",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 79,
+    "song_name": "トリノコシティ",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 80,
+    "song_name": "キリトリセン",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 81,
+    "song_name": "恋爱裁判",
+    "artist": "40meterP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 82,
+    "song_name": "Rainbow?Girl",
+    "artist": "43スレ437",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 83,
+    "song_name": "スロウダウナー",
+    "artist": "696rkr",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 84,
+    "song_name": "茜音色チャイム",
+    "artist": "acane_madder",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 85,
+    "song_name": "踊",
+    "artist": "Ado",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 86,
+    "song_name": "恋をしたのは（关于恋爱的事）",
+    "artist": "aiko",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 87,
+    "song_name": "三国駅",
+    "artist": "aiko",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 88,
+    "song_name": "カタオモイ（单相思）",
+    "artist": "Aimer",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 89,
+    "song_name": "蝶々結び（蝴蝶结）",
+    "artist": "Aimer",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 90,
+    "song_name": "六等星の夜（六等星之夜）",
+    "artist": "Aimer",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 91,
+    "song_name": "Ref:rain",
+    "artist": "Aimer",
+    "language": "日语",
+    "remarks": "不太会",
+    "initial": "日语"
+  },
+  {
+    "": 92,
+    "song_name": "愛を伝えたいだとか",
+    "artist": "Aimyon",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 93,
+    "song_name": "大声ダイヤモンド",
+    "artist": "AKB48",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 94,
+    "song_name": "枝垂桜",
+    "artist": "Anna",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1La4y1w7fb"
+  },
+  {
+    "": 95,
+    "song_name": "対象a",
+    "artist": "anNina",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 96,
+    "song_name": "扉をあけて",
+    "artist": "ANZA",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 97,
+    "song_name": "マカロン (MACARON)",
+    "artist": "ATOLS",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 98,
+    "song_name": "泣きたい夜",
+    "artist": "AYANE",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 99,
+    "song_name": "夜撫でるメノウ",
+    "artist": "Ayase",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 100,
+    "song_name": "高嶺の花子さん",
+    "artist": "back number",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 101,
+    "song_name": "瞬き",
+    "artist": "back number",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 102,
+    "song_name": "クリスマスソング",
+    "artist": "back number",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 103,
+    "song_name": "恋愛ライダー",
+    "artist": "Buono!",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 104,
+    "song_name": "しわ",
+    "artist": "buzzG",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 105,
+    "song_name": "Summertime",
+    "artist": "cinnamons/evening cinema",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 106,
+    "song_name": "君が生まれた日",
+    "artist": "DATEKEN",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1TC4y1a71A"
+  },
+  {
+    "": 107,
+    "song_name": "蜜月アン·ドゥ?トロワ （蜜月 un deux trois)",
+    "artist": "DATEKEN",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 108,
+    "song_name": "*tear*",
+    "artist": "DATEKEN",
+    "language": "日语",
+    "remarks": "太久没唱了忘了",
+    "initial": "日语"
+  },
+  {
+    "": 109,
+    "song_name": "なまえのないうた",
+    "artist": "DATEKEN",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1CE411H7Dd"
+  },
+  {
+    "": 110,
+    "song_name": "Imagination",
+    "artist": "DATEKEN",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 111,
+    "song_name": "アディオス",
+    "artist": "Dazbee",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 112,
+    "song_name": "愛じゃない",
+    "artist": "Dazbee",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 113,
+    "song_name": "Hikari",
+    "artist": "Dazbee",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 114,
+    "song_name": "妄想感傷代償連盟",
+    "artist": "DECO*27",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 115,
+    "song_name": "妄想税",
+    "artist": "DECO*27",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 116,
+    "song_name": "モザイクロール（马赛克卷）",
+    "artist": "DECO*27",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 117,
+    "song_name": "爱言叶II",
+    "artist": "DECO*27",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 118,
+    "song_name": "爱言叶III",
+    "artist": "DECO*27",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 119,
+    "song_name": "おじゃま虫",
+    "artist": "DECO*27",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 120,
+    "song_name": "アンサー（Answer)",
+    "artist": "Dixie Flatline",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 121,
+    "song_name": "Just Be Friends",
+    "artist": "Dixie Flatline",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 122,
+    "song_name": "Letter Song",
+    "artist": "doriko",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 123,
+    "song_name": "ロミオとシンデレラ（罗密欧与灰姑娘）",
+    "artist": "doriko",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 124,
+    "song_name": "笹舟",
+    "artist": "doriko",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 125,
+    "song_name": "歌に形はないけれど（歌虽无形）",
+    "artist": "doriko",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 126,
+    "song_name": "スウィートタイム（Sweet Time)",
+    "artist": "EasyPop",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 127,
+    "song_name": "ハッピーシンセサイザー（欢乐合成器）",
+    "artist": "EasyPop",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 128,
+    "song_name": "ラブレター·フロム·何か?",
+    "artist": "ecosystem",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 129,
+    "song_name": "名前のない怪物",
+    "artist": "EGOIST",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 130,
+    "song_name": "Planetes",
+    "artist": "EGOIST",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 131,
+    "song_name": "Departures ~あなたにおくるアイの歌~",
+    "artist": "EGOIST",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 132,
+    "song_name": "エウテルペ",
+    "artist": "EGOIST",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 133,
+    "song_name": "Ghost of a smile",
+    "artist": "EGOIST",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 134,
+    "song_name": "フィナーレ。（Finale.）",
+    "artist": "Eill",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 135,
+    "song_name": "Chaining intention",
+    "artist": "ELECTROCUTICA",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 136,
+    "song_name": "未必の恋（未必之恋）",
+    "artist": "ELECTROCUTICA",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 137,
+    "song_name": "ARCA",
+    "artist": "ELECTROCUTICA",
+    "language": "日语",
+    "remarks": "爱曲，无敌",
+    "initial": "日语",
+    "paid": 1
+  },
+  {
+    "": 138,
+    "song_name": "暁の車(晓之车)",
+    "artist": "FictionJunction",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 139,
+    "song_name": "わたしの一番かわいいところ",
+    "artist": "FRUITS ZIPPER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 140,
+    "song_name": "ハピチョコ",
+    "artist": "FRUITS?ZIPPER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 141,
+    "song_name": "getcha!",
+    "artist": "GIGA",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 142,
+    "song_name": "声（Voice）",
+    "artist": "HarryP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV19E411d7tF"
+  },
+  {
+    "": 143,
+    "song_name": "ぼくらのレットイットビー（让我们Let it be)",
+    "artist": "HarryP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 144,
+    "song_name": "Mr.VIRTUALIZER",
+    "artist": "HIMEHINA",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 145,
+    "song_name": "可愛くなりたい（想要变可爱）",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 146,
+    "song_name": "东京夏日相会",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 147,
+    "song_name": "私、アイドル宣言（我的偶像宣言）",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 148,
+    "song_name": "告白予行練習",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 149,
+    "song_name": "スキキライ（喜欢讨厌）",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 150,
+    "song_name": "ファンサ（Fans）",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 151,
+    "song_name": "No.1",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 152,
+    "song_name": "月曜日の憂鬱 (星期一的忧郁）",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 153,
+    "song_name": "金曜日のおはよう（星期五的早安）",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 154,
+    "song_name": "誇り高きアイドル",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 155,
+    "song_name": "可愛くてごめん",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 156,
+    "song_name": "なでなで",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 157,
+    "song_name": "世界は恋に落ちている",
+    "artist": "HoneyWorks",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 158,
+    "song_name": "春を待つ",
+    "artist": "Islet/倚水",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 159,
+    "song_name": "春、恋、花以外の",
+    "artist": "IU/HIGH4",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 160,
+    "song_name": "ナツノハナ(夏花)",
+    "artist": "JUJU",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 161,
+    "song_name": "メランコリック",
+    "artist": "Junky",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 162,
+    "song_name": "Happy Halloween",
+    "artist": "Junky",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 163,
+    "song_name": "スイートマジック（甜蜜魔法）",
+    "artist": "Junky",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 164,
+    "song_name": "KING",
+    "artist": "kanaria",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 165,
+    "song_name": "酔いどれ知らず",
+    "artist": "Kanaria",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 166,
+    "song_name": "雨の庭",
+    "artist": "kaoling",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 167,
+    "song_name": "glow",
+    "artist": "keeno",
+    "language": "日语",
+    "remarks": "本命曲",
+    "initial": "日语",
+    "paid": 1
+  },
+  {
+    "": 168,
+    "song_name": "in the rain",
+    "artist": "keeno",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1kJ411q7xL"
+  },
+  {
+    "": 169,
+    "song_name": "月虹蝶",
+    "artist": "KOTOKO",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 170,
+    "song_name": "ぱられるループ",
+    "artist": "Kounotori",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 171,
+    "song_name": "夜風",
+    "artist": "Lamp",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 172,
+    "song_name": "The Au Lait",
+    "artist": "Lemm",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 173,
+    "song_name": "魔女裁判",
+    "artist": "LEN/否",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 174,
+    "song_name": "鳥の詩",
+    "artist": "Lia",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 175,
+    "song_name": "Who Killed U.N.Owen",
+    "artist": "LizTriangle",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 176,
+    "song_name": "桜見丘",
+    "artist": "Local bus",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 177,
+    "song_name": "START:DASH!!",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 178,
+    "song_name": "僕らのLIVE 君とのLIFE",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 179,
+    "song_name": "Angelic Angel",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 180,
+    "song_name": "soldier game",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 181,
+    "song_name": "Mermaid festa vol.2 ~Passionate~",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 182,
+    "song_name": "Beat in Angel",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 183,
+    "song_name": "愛してるばんざーい!",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 184,
+    "song_name": "snow halation",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 185,
+    "song_name": "輝夜の城で踊りたい（欲于辉夜之城起舞）",
+    "artist": "LoveLive μs",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 186,
+    "song_name": "ヨワネハキ",
+    "artist": "MAISONdes",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 187,
+    "song_name": "けーたいみしてよ",
+    "artist": "MAISONdes",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 188,
+    "song_name": "ダンス·ダンス·ダダ",
+    "artist": "MAISONdes",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 189,
+    "song_name": "レクデンシー（Lecdency）",
+    "artist": "manika",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 190,
+    "song_name": "ライオン（Lion）",
+    "artist": "May n/中島愛",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 191,
+    "song_name": "Catch you, Catch me",
+    "artist": "meg rock",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 192,
+    "song_name": "１，２ fan club",
+    "artist": "MikitoP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 193,
+    "song_name": "バレリーコ（芭蕾舞者）",
+    "artist": "MikitoP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 194,
+    "song_name": "Kiss",
+    "artist": "MikitoP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 195,
+    "song_name": "クノイチでも恋がしたい",
+    "artist": "MikitoP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 196,
+    "song_name": "小夜子",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 197,
+    "song_name": "僕は初音ミクとキスをした（我吻了初音未来）",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 198,
+    "song_name": "ヨンジュウナナ（47）",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 199,
+    "song_name": "アカイト",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 200,
+    "song_name": "サリシノハラ（离去之原）",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 201,
+    "song_name": "ロキ／Roki",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 202,
+    "song_name": "少女レイ",
+    "artist": "MikitoP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 203,
+    "song_name": "カガリビト（留守人）",
+    "artist": "millstones",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 204,
+    "song_name": "花降らし",
+    "artist": "n-buna",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 205,
+    "song_name": "夜明けと蛍（黎明与萤火）",
+    "artist": "n-buna",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 206,
+    "song_name": "ラプンツェル（长发公主）",
+    "artist": "n-buna",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 207,
+    "song_name": "だから僕は音楽を辞めた",
+    "artist": "n-buna",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 208,
+    "song_name": "嗚呼、素晴らしきニャン生（啊啊，这美妙的喵生）",
+    "artist": "Nem",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 209,
+    "song_name": "右肩之蝶",
+    "artist": "NoriP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 210,
+    "song_name": "Pretender",
+    "artist": "Official髭男dism",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 211,
+    "song_name": "ノーダウト",
+    "artist": "Official髭男dism",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 212,
+    "song_name": "subtitle",
+    "artist": "Official髭男dism",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 213,
+    "song_name": "Chao!",
+    "artist": "oga",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 214,
+    "song_name": "アスノヨゾラ哨戒班（明日的夜空哨戒班）",
+    "artist": "Orangestar",
+    "language": "日语",
+    "remarks": "唱不好，别点",
+    "initial": "日语"
+  },
+  {
+    "": 215,
+    "song_name": "回る空うさぎ（月兔回旋于空中）",
+    "artist": "Orangestar",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 216,
+    "song_name": "残灯花火",
+    "artist": "Orangestar",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 217,
+    "song_name": "あわよくばきみの眷属になりたいな",
+    "artist": "Peg",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 218,
+    "song_name": "夜になったら耿十八は",
+    "artist": "Peg",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 219,
+    "song_name": "蛍",
+    "artist": "PENGUINS PROJECT",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 220,
+    "song_name": "airhead",
+    "artist": "Picon",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 221,
+    "song_name": "人間だった（曾生为人）",
+    "artist": "Picon",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 222,
+    "song_name": "タタラ（Tatara）",
+    "artist": "Picon",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 223,
+    "song_name": "君の脈で踊りたかった（我想在你的脉搏中跳舞）",
+    "artist": "Picon",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 224,
+    "song_name": "Solitude",
+    "artist": "pinelotus",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 225,
+    "song_name": "メタモンのうた（萌萌百变怪）",
+    "artist": "Pokémon",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 226,
+    "song_name": "雨降りエトセトラ（好比下雨之类的）",
+    "artist": "PolyphonicBranch",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 227,
+    "song_name": "ヒステリックナイトガール",
+    "artist": "PSYQUI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 228,
+    "song_name": "ちきゅう大爆発/地球大爆炸",
+    "artist": "P丸様",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 229,
+    "song_name": "シル·ヴ·プレジデント",
+    "artist": "P丸様",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 230,
+    "song_name": "flos",
+    "artist": "R Sound Design",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 231,
+    "song_name": "帝国少女",
+    "artist": "R Sound Design",
+    "language": "日语",
+    "remarks": "口胡",
+    "initial": "日语"
+  },
+  {
+    "": 232,
+    "song_name": "三日月ステップ",
+    "artist": "R-906",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 233,
+    "song_name": "なんでもないや",
+    "artist": "RADWIMPS",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 234,
+    "song_name": "me me she",
+    "artist": "RADWIMPS",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 235,
+    "song_name": "オーダーメイド（定制品）",
+    "artist": "RADWIMPS",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 236,
+    "song_name": "スパークル（火花）",
+    "artist": "RADWIMPS",
+    "language": "日语",
+    "remarks": "半首",
+    "initial": "日语"
+  },
+  {
+    "": 237,
+    "song_name": "狭心症",
+    "artist": "RADWIMPS",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 238,
+    "song_name": "Groovin  Magic",
+    "artist": "Round Table",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 239,
+    "song_name": "ワールドイズマイン（世界第一的公主殿下）",
+    "artist": "ryo",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 240,
+    "song_name": "Bye-Bye Lover",
+    "artist": "samfree",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 241,
+    "song_name": "オオカミ少年独白",
+    "artist": "sasakure.UK",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 242,
+    "song_name": "逆さまの蝶",
+    "artist": "SNoW",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 243,
+    "song_name": "銀色飛行船",
+    "artist": "supercell",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 244,
+    "song_name": "君の知らない物語",
+    "artist": "supercell",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 245,
+    "song_name": "ブラック★ロックシューター",
+    "artist": "supercell",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 246,
+    "song_name": "さよならメモリーズ",
+    "artist": "supercell",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 247,
+    "song_name": "約束をしよう",
+    "artist": "supercell/やなぎなぎ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 248,
+    "song_name": "シーサイド（Sea-Side)",
+    "artist": "tama",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 249,
+    "song_name": "ムーン（moon）",
+    "artist": "tama",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV13b411E78b"
+  },
+  {
+    "": 250,
+    "song_name": "ディスコ（Disco）",
+    "artist": "tama",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1xg411N7tu"
+  },
+  {
+    "": 251,
+    "song_name": "天使",
+    "artist": "tama",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1DE41147PY"
+  },
+  {
+    "": 252,
+    "song_name": "秘密のトワレ",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 253,
+    "song_name": "薄荷-ハッカ-",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 254,
+    "song_name": "Romantic Now",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 255,
+    "song_name": "dokidokiリズム (心跳的节奏)",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 256,
+    "song_name": "TOKIMEKI エスカレート",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 257,
+    "song_name": "Tulip",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 258,
+    "song_name": "約束",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 259,
+    "song_name": "VOY@GER",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 260,
+    "song_name": "アタシポンコツアンドロイド",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 261,
+    "song_name": "輝く世界の魔法",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 262,
+    "song_name": "Love∞Destiny",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 263,
+    "song_name": "秋風に手を振って",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 264,
+    "song_name": "お願い! シンデレラ",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 265,
+    "song_name": "あんすのうた",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 266,
+    "song_name": "SOS",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 267,
+    "song_name": "Memories",
+    "artist": "THE IDOLM＠STER",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 268,
+    "song_name": "unravel",
+    "artist": "TK from 凛として時雨",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 269,
+    "song_name": "パズルガール（Puzzle Girl)",
+    "artist": "toa",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 270,
+    "song_name": "『13』",
+    "artist": "toa",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 271,
+    "song_name": "アイディスマイル（IDSMILE）",
+    "artist": "toa",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 272,
+    "song_name": "ミュージックミュージック（Music Muisc）",
+    "artist": "toa",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 273,
+    "song_name": "ツギハギスタッカート（拼凑的断音）",
+    "artist": "toa",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 274,
+    "song_name": "晚餐歌",
+    "artist": "tuki",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 275,
+    "song_name": "シュガーソングとビターステップ",
+    "artist": "UNISON SQUARE GARDEN",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 276,
+    "song_name": "天命系メルト",
+    "artist": "VALIS",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 277,
+    "song_name": "別の人の彼女になったよ（成为了别人的女朋友）",
+    "artist": "wacci",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 278,
+    "song_name": "恋だろ",
+    "artist": "wacci",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 279,
+    "song_name": "ノエル（诺艾尔）",
+    "artist": "wotaku",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 280,
+    "song_name": "SLEEPWALK",
+    "artist": "wowoka",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 281,
+    "song_name": "Fall in the dark",
+    "artist": "Yana",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 282,
+    "song_name": "憧憬人鱼姬",
+    "artist": "YASUHIRO",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 283,
+    "song_name": "怪物",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 284,
+    "song_name": "群青",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 285,
+    "song_name": "夜に駆ける",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 286,
+    "song_name": "優しい彗星",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 287,
+    "song_name": "たふん（大概）",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 288,
+    "song_name": "大正浪漫",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 289,
+    "song_name": "ハルジオン",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 290,
+    "song_name": "アイドル",
+    "artist": "YOASOBI",
+    "language": "日语",
+    "remarks": "还不太会",
+    "initial": "日语"
+  },
+  {
+    "": 291,
+    "song_name": "Goodbye-days",
+    "artist": "YUI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 292,
+    "song_name": "Again",
+    "artist": "YUI",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 293,
+    "song_name": "secret base ~君がくれたもの~",
+    "artist": "ZONE",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 294,
+    "song_name": "恋ノ行方",
+    "artist": "あかせあかり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 295,
+    "song_name": "10月無口な君を忘れる",
+    "artist": "あたらよ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 296,
+    "song_name": "チョコレートミルク",
+    "artist": "あぷえら",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 297,
+    "song_name": "他人事の音がする（声不关己）",
+    "artist": "あめのむらくもP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 298,
+    "song_name": "変わらない場所（不变之地）",
+    "artist": "アリエP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 299,
+    "song_name": "こちら、幸福安心委員会です（这里是，幸福安心委员会）",
+    "artist": "うたたP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 300,
+    "song_name": "愛して愛して愛して",
+    "artist": "きくお",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 301,
+    "song_name": "Ponponpon",
+    "artist": "きゃりーぱみゅぱみゅ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 302,
+    "song_name": "Candy Candy",
+    "artist": "きゃりーぱみゅぱみゅ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 303,
+    "song_name": "にんじゃりばんばん",
+    "artist": "きゃりーぱみゅぱみゅ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 304,
+    "song_name": "ふたりはNS",
+    "artist": "きら☆ぴか",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 305,
+    "song_name": "夜桜",
+    "artist": "くじら",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 306,
+    "song_name": "福寿草",
+    "artist": "ぐにょ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 307,
+    "song_name": "おちゃめ機能（天真浪漫机能）",
+    "artist": "ゴジマジP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 308,
+    "song_name": "たばこ（烟草/tabaco）",
+    "artist": "コレサワ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 309,
+    "song_name": "深海のリトルクライ（深海的Little Cry)",
+    "artist": "ささくれP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 310,
+    "song_name": "For Campanella",
+    "artist": "ささくれP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 311,
+    "song_name": "ほろよい/微醺",
+    "artist": "さんひ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 312,
+    "song_name": "from Y to Y",
+    "artist": "ジミーサムP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 313,
+    "song_name": "Starduster",
+    "artist": "ジミーサムP",
+    "language": "日语",
+    "remarks": "半首",
+    "initial": "日语"
+  },
+  {
+    "": 314,
+    "song_name": "Calc.",
+    "artist": "ジミーサムP",
+    "language": "日语",
+    "remarks": "半首",
+    "initial": "日语"
+  },
+  {
+    "": 315,
+    "song_name": "フールムーンサイド/满月之侧",
+    "artist": "しゃべる帽子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1Uq4y1Y7b1"
+  },
+  {
+    "": 316,
+    "song_name": "アヤノの幸福理論（文乃的幸福理论）",
+    "artist": "じん",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 317,
+    "song_name": "夕景イエスタデイ",
+    "artist": "じん",
+    "language": "日语",
+    "remarks": "口胡",
+    "initial": "日语"
+  },
+  {
+    "": 318,
+    "song_name": "如月アテンション",
+    "artist": "じん",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 319,
+    "song_name": "東京レトロ（东京复古）",
+    "artist": "すこっぷ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 320,
+    "song_name": "クライヤ（Cryer)",
+    "artist": "すこっぷ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 321,
+    "song_name": "夏の終わり、恋の始まり（夏天的结束，恋爱的开始）",
+    "artist": "すこっぷ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 322,
+    "song_name": "アイロニ（反语）",
+    "artist": "すこっぷ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 323,
+    "song_name": "どうぶつ占い （动物占卜）",
+    "artist": "すこっぷ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 324,
+    "song_name": "Ham",
+    "artist": "ずっと真夜中でいいのに。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 325,
+    "song_name": "秒針を噛む（咬合指针）",
+    "artist": "ずっと真夜中でいいのに。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 326,
+    "song_name": "お勉強しといてよ（要好好学一下哦）",
+    "artist": "ずっと真夜中でいいのに。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 327,
+    "song_name": "君がいて水になる",
+    "artist": "ずっと真夜中でいいのに。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 328,
+    "song_name": "ハレンチ",
+    "artist": "ちゃんみな",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 329,
+    "song_name": "街路灯を横切って",
+    "artist": "ちんまりP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 330,
+    "song_name": "Miss you",
+    "artist": "ツカダタカシゲ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 331,
+    "song_name": "風になる（幻化成风）",
+    "artist": "つじあやの",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 332,
+    "song_name": "Paranoia",
+    "artist": "つなま",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 333,
+    "song_name": "フォニイ（phony）",
+    "artist": "ツミキ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 334,
+    "song_name": "SPiCa",
+    "artist": "とくP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 335,
+    "song_name": "ココロ",
+    "artist": "トラボルタP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 336,
+    "song_name": "ド屑",
+    "artist": "なきそ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 337,
+    "song_name": "センチメンタルな愛慕心（多情善感的爱慕心）",
+    "artist": "なつめ千秋",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 338,
+    "song_name": "ダダダダ天使",
+    "artist": "ナナヲアカリ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 339,
+    "song_name": "Rain stops, goodbye",
+    "artist": "におP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 340,
+    "song_name": "帰り道",
+    "artist": "におP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 341,
+    "song_name": "命ばっかり（只为生命）",
+    "artist": "ぬゆり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 342,
+    "song_name": "フラジール(fragile)",
+    "artist": "ぬゆり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 343,
+    "song_name": "フィクサー（Fixer）",
+    "artist": "ぬゆり",
+    "language": "日语",
+    "remarks": "口胡",
+    "initial": "日语"
+  },
+  {
+    "": 344,
+    "song_name": "自傷無色",
+    "artist": "ねこぼーろ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 345,
+    "song_name": "白い雪のプリンセスは（白如雪的公主殿下）",
+    "artist": "のぼる↑P",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 346,
+    "song_name": "神様はじめまし",
+    "artist": "ハナエ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 347,
+    "song_name": "右に曲ガール（右转女孩）",
+    "artist": "はるふり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 348,
+    "song_name": "ロマンちっくブレイカー（浪漫破坏者）",
+    "artist": "ピストン",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 349,
+    "song_name": "神っぽいな",
+    "artist": "ピノキオピー",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 350,
+    "song_name": "またあした（明天见）",
+    "artist": "ふわりｐ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 351,
+    "song_name": "それがあなたの幸せとしても（即使那就是你的幸福）",
+    "artist": "ヘブンズP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 352,
+    "song_name": "ハロ、ハワユ（Hello, how are you)",
+    "artist": "ほえほえP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 353,
+    "song_name": "曖昧さ回避（回避暧昧）",
+    "artist": "ポリスピカデリー",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 354,
+    "song_name": "Nerve Impulse",
+    "artist": "ポリスピカデリー",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 355,
+    "song_name": "ルーマー（Rumor）",
+    "artist": "ポリスピカデリー",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 356,
+    "song_name": "Chaotic Love Revolution（乱糟糟的爱情革命）",
+    "artist": "ポリスピカデリー",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1q7411i7RF"
+  },
+  {
+    "": 357,
+    "song_name": "アストロノーツ",
+    "artist": "ぽわぽわＰ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 358,
+    "song_name": "あの森で待ってる",
+    "artist": "ボンジュール鈴木",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 359,
+    "song_name": "煙",
+    "artist": "まきちゃんぐ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 360,
+    "song_name": "Highway Lover",
+    "artist": "みきとP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 361,
+    "song_name": "さようなら、花泥棒さん",
+    "artist": "メル",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 362,
+    "song_name": "翡翠のまち（翡翠的街道）",
+    "artist": "メル",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 363,
+    "song_name": "プラトニック·ラヴ",
+    "artist": "メル",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 364,
+    "song_name": "渦をまく夕方",
+    "artist": "メル",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 365,
+    "song_name": "時空を超え 宇宙を超え",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 366,
+    "song_name": "Fantasyが始まる",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 367,
+    "song_name": "I WISH",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 368,
+    "song_name": "恋愛レボリューション21",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 369,
+    "song_name": "LOVEマシーン",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 370,
+    "song_name": "大きい瞳",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 371,
+    "song_name": "TIKI BUN",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 372,
+    "song_name": "愛して愛して　後一分",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 373,
+    "song_name": "ふたりはNS",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 374,
+    "song_name": "Be Alive",
+    "artist": "モーニング娘。",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 375,
+    "song_name": "少年よ我に帰れ",
+    "artist": "やくしまるえつこメトロオーケストラ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1HJ411V7mJ"
+  },
+  {
+    "": 376,
+    "song_name": "強風オールバック（强风大背头）",
+    "artist": "ゆこぴ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 377,
+    "song_name": "毒林檎とシンデレラ（毒苹果与灰姑娘）",
+    "artist": "ゆずひこ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 378,
+    "song_name": "靴の花火",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 379,
+    "song_name": "花に亡霊",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 380,
+    "song_name": "言って（说吧）",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1JJ411H7wL"
+  },
+  {
+    "": 381,
+    "song_name": "ヒッチコック（Hitchcock）",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 382,
+    "song_name": "パレード(parade)",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 383,
+    "song_name": "だから僕は音楽を辞めた",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "口胡",
+    "initial": "日语"
+  },
+  {
+    "": 384,
+    "song_name": "雲と幽霊（云与幽灵）",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 385,
+    "song_name": "雨とカプチーノ",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 386,
+    "song_name": "ただ君に晴れ（只为你放晴）",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 387,
+    "song_name": "夜行",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 388,
+    "song_name": "都落ち",
+    "artist": "ヨルシカ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 389,
+    "song_name": "スイセンと酸性雨",
+    "artist": "ライクア",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 390,
+    "song_name": "S·K·Y",
+    "artist": "ライブP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 391,
+    "song_name": "失恋ソング沢山聴いて 泣いてばかりの私はもう。",
+    "artist": "りりあ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1Ht4y1w7Ka"
+  },
+  {
+    "": 392,
+    "song_name": "蛙化現象に悩んでる女の子の話。",
+    "artist": "りりあ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 393,
+    "song_name": "断捨離",
+    "artist": "りりあ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 394,
+    "song_name": "私じゃなかったんだね。",
+    "artist": "りりあ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 395,
+    "song_name": "ハイタ（Haita）",
+    "artist": "ルワン",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 396,
+    "song_name": "singason",
+    "artist": "れるりり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 397,
+    "song_name": "Mr.Music",
+    "artist": "れるりり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 398,
+    "song_name": "いけないボーダーライン（禁忌的边境线）",
+    "artist": "ワルキューレ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 399,
+    "song_name": "ルンがピカッと光ったら",
+    "artist": "ワルキューレ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 400,
+    "song_name": "ハイドレンジア（绣球花）",
+    "artist": "ヰ世界情緒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 401,
+    "song_name": "いろはに咲きて（盛开于伊吕波）",
+    "artist": "ヰ世界情緒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 402,
+    "song_name": "ARCADIA",
+    "artist": "ヰ世界情緒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 403,
+    "song_name": "月（Guiano）",
+    "artist": "ヰ世界情緒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1Zu411F7eY"
+  },
+  {
+    "": 404,
+    "song_name": "シリウスの心臓（ 天狼星的心脏）",
+    "artist": "ヰ世界情緒/傘村トータ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 405,
+    "song_name": "マボロシのまち",
+    "artist": "ヰ世界情緒/傘村トータ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 406,
+    "song_name": "ガーネット（石榴石）",
+    "artist": "奥华子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 407,
+    "song_name": "変わらないもの",
+    "artist": "奥华子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 408,
+    "song_name": "月の繭（月之茧）",
+    "artist": "奥井亜紀",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 409,
+    "song_name": "地球をあげる",
+    "artist": "春卷饭",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 410,
+    "song_name": "再会",
+    "artist": "春卷饭",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 411,
+    "song_name": "Nuit",
+    "artist": "春野",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 412,
+    "song_name": "深昏睡",
+    "artist": "春野",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1fT4y1L79g"
+  },
+  {
+    "": 413,
+    "song_name": "Egoism",
+    "artist": "春野",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1mJ411u7UK"
+  },
+  {
+    "": 414,
+    "song_name": "鳳仙花",
+    "artist": "春野",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 415,
+    "song_name": "Love Affair",
+    "artist": "春野",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 416,
+    "song_name": "さよならミッドナイト（再见Midnight)",
+    "artist": "大柴広己(もじゃ)",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 417,
+    "song_name": "Rain",
+    "artist": "大江千里",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 418,
+    "song_name": "COLORS",
+    "artist": "大沼パセリ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 419,
+    "song_name": "金魚花火",
+    "artist": "大冢爱",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 420,
+    "song_name": "プラネタリウム（星象仪）",
+    "artist": "大冢爱",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 421,
+    "song_name": "奈落の花",
+    "artist": "島みや えい子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 422,
+    "song_name": "ラララのピピピ",
+    "artist": "道重さゆみ(モーニング娘。)",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 423,
+    "song_name": "独りんぼエンベィー（孑然妒火）",
+    "artist": "電ポルP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 424,
+    "song_name": "曖昧劣情Lover",
+    "artist": "電ポルP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 425,
+    "song_name": "唯々なりレイデエ（唯唯诺诺Lady)",
+    "artist": "電ポルP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 426,
+    "song_name": "恋空予報",
+    "artist": "電ポルP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 427,
+    "song_name": "心做し",
+    "artist": "蝶々P",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 428,
+    "song_name": "落日",
+    "artist": "東京事変",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 429,
+    "song_name": "天使にふれたよ!（相遇天使）",
+    "artist": "放課後ティータイム",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 430,
+    "song_name": "For Fruits Basket",
+    "artist": "岡崎律子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 431,
+    "song_name": "愛してる",
+    "artist": "高铃",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 432,
+    "song_name": "残酷な天使のテーゼ(残酷天使的行动纲领)",
+    "artist": "高橋洋子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 433,
+    "song_name": "植物園",
+    "artist": "宮沢もよよ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 434,
+    "song_name": "グリグリメガネと月光蟲",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 435,
+    "song_name": "月光食堂",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 436,
+    "song_name": "魔法",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 437,
+    "song_name": "グレゴリオ",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "代表曲，无敌",
+    "initial": "日语",
+    "paid": 1,
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1y7411Z7Yi"
+  },
+  {
+    "": 438,
+    "song_name": "Home",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 439,
+    "song_name": "Alice",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 440,
+    "song_name": "ドアーズ",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 441,
+    "song_name": "ピアノ?レッスン",
+    "artist": "古川本舗",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 442,
+    "song_name": "寄り酔い（微醺）",
+    "artist": "和ぬか",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1bu411Q7uZ"
+  },
+  {
+    "": 443,
+    "song_name": "Butter-Fly",
+    "artist": "和田光司",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 444,
+    "song_name": "リスキーゲーム（Risky Game)",
+    "artist": "黒うさP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 445,
+    "song_name": "千本樱",
+    "artist": "黒うさP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 446,
+    "song_name": "花のうた",
+    "artist": "花たん",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 447,
+    "song_name": "ニワカアメ",
+    "artist": "花たん",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 448,
+    "song_name": "私論理",
+    "artist": "花譜",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 449,
+    "song_name": "恋愛サーキュレーション（恋爱循环）",
+    "artist": "花澤香菜",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 450,
+    "song_name": "sweets parade",
+    "artist": "花澤香菜",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 451,
+    "song_name": "綺麗",
+    "artist": "吉澤嘉代子",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 452,
+    "song_name": "TOKIMEKI エスカレート（TOKIMEKI Escalate)",
+    "artist": "佳村はるか",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 453,
+    "song_name": "Silly",
+    "artist": "家入レオ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 454,
+    "song_name": "刀ピークリスマスのテーマソング（刀P2022）",
+    "artist": "剣持刀也",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 455,
+    "song_name": "星座になれたら",
+    "artist": "結束バンド",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 456,
+    "song_name": "白金ディスコ（白金Disco）",
+    "artist": "井口裕香",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 457,
+    "song_name": "恐山ル·ヴォワール（恐山·Re voir)",
+    "artist": "恐山アンナ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 458,
+    "song_name": "めんどくさいや（麻烦死了）",
+    "artist": "瀬名航",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 459,
+    "song_name": "食虫植物",
+    "artist": "理芽RIM",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 460,
+    "song_name": "真夜中のメリーゴーランド",
+    "artist": "鈴木愛理",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 461,
+    "song_name": "magnet",
+    "artist": "流星P",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 462,
+    "song_name": "party!!",
+    "artist": "緑黄色社会",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 463,
+    "song_name": "虎視眈々（虎视眈眈）",
+    "artist": "梅とら",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 464,
+    "song_name": "SCREAM",
+    "artist": "梅とら",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 465,
+    "song_name": "死神",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 466,
+    "song_name": "砂の惑星",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 467,
+    "song_name": "LOSER",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 468,
+    "song_name": "Lemon",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 469,
+    "song_name": "アイネクライネ（Eine Kleine）",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 470,
+    "song_name": "Flamingo(火烈鸟)",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 471,
+    "song_name": "マトリョシカ（俄罗斯套娃）",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 472,
+    "song_name": "メトロノーム（节拍器）",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 473,
+    "song_name": "Flamingo",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 474,
+    "song_name": "Vivi",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 475,
+    "song_name": "灰色与青",
+    "artist": "米津玄師",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 476,
+    "song_name": "いのちの名前（生命之命）",
+    "artist": "木村弓",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 477,
+    "song_name": "ふわふわ",
+    "artist": "牧野由依",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 478,
+    "song_name": "sasayaku",
+    "artist": "楠木_郁",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 479,
+    "song_name": "眠れない",
+    "artist": "楠木ともり",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 480,
+    "song_name": "god knows",
+    "artist": "平野綾",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 481,
+    "song_name": "夢と葉桜 （梦与叶樱）",
+    "artist": "青木月光",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 482,
+    "song_name": "垂直落下",
+    "artist": "傘村トータ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 483,
+    "song_name": "花めづる君（怜花的你）",
+    "artist": "傘村トータ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 484,
+    "song_name": "明けない夜のリリィ(尚未天明之时的百合花)",
+    "artist": "傘村トータ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 485,
+    "song_name": "小説　夏と罰（下）",
+    "artist": "傘村トータ",
+    "language": "日语",
+    "remarks": "不太会",
+    "initial": "日语"
+  },
+  {
+    "": 486,
+    "song_name": "シンクロサイクロトロン·スピリチュアライザー。",
+    "artist": "砂粒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 487,
+    "song_name": "金魚姫",
+    "artist": "砂粒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 488,
+    "song_name": "少女溶解",
+    "artist": "砂粒",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 489,
+    "song_name": "One more time, One more chance",
+    "artist": "山崎まさよし",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 490,
+    "song_name": "別れ1940",
+    "artist": "深津絵里",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 491,
+    "song_name": "Dear cocoa girls",
+    "artist": "神前暁",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 492,
+    "song_name": "花瓶の花",
+    "artist": "石崎ひゅーい",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 493,
+    "song_name": "粛聖!! ロリ神レクイエム☆",
+    "artist": "時雨羽衣",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 494,
+    "song_name": "Aspirin",
+    "artist": "無力P",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 495,
+    "song_name": "チーズケーキクライシス",
+    "artist": "西沢さんP",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 496,
+    "song_name": "夜もすがら君思ふ（彻夜也始终想着你）",
+    "artist": "西沢さんP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 497,
+    "song_name": "君色に染まる（染上你的颜色）",
+    "artist": "西沢さんP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 498,
+    "song_name": "Booo!",
+    "artist": "西沢さんP ",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 499,
+    "song_name": "もう一度ｘ古川",
+    "artist": "夏野natsuno/古川本舗",
+    "language": "日语",
+    "remarks": "串烧曲",
+    "initial": "日语",
+    "paid": 1,
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1BF411w7KC"
+  },
+  {
+    "": 500,
+    "song_name": "（恋は）百年戦争",
+    "artist": "相対性理論",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 501,
+    "song_name": "チャイナアドバイス",
+    "artist": "相対性理論",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 502,
+    "song_name": "いかないで（不要走）",
+    "artist": "想太",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV18741167V8"
+  },
+  {
+    "": 503,
+    "song_name": "またあした（明天见）",
+    "artist": "想太",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 504,
+    "song_name": "シャルル",
+    "artist": "須田景凪",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 505,
+    "song_name": "月が綺麗",
+    "artist": "岩見拓馬",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 506,
+    "song_name": "メリーメリー（Merry Merry)",
+    "artist": "一億円P",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 507,
+    "song_name": "香水",
+    "artist": "瑛人",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 508,
+    "song_name": "ドライフラワー(干花)",
+    "artist": "優里",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 509,
+    "song_name": "レオ",
+    "artist": "優里",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 510,
+    "song_name": "カトラリー（cutlery）",
+    "artist": "有機酸",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语",
+    "play": 1,
+    "link": "https://www.bilibili.com/video/BV1Q4411F7zi"
+  },
+  {
+    "": 511,
+    "song_name": "Beautiful World",
+    "artist": "宇多田ヒカル",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 512,
+    "song_name": "桜流し",
+    "artist": "宇多田光",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 513,
+    "song_name": "オノマトペ",
+    "artist": "羽生まゐご",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 514,
+    "song_name": "人マニア",
+    "artist": "原口沙輔",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 515,
+    "song_name": "もしも",
+    "artist": "早安家族",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 516,
+    "song_name": "星間飛行",
+    "artist": "中島愛",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 517,
+    "song_name": "僕が死のうと思ったのは（曾经我也想过一了百了）",
+    "artist": "中島美嘉",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 518,
+    "song_name": "Legend Of Mermaid",
+    "artist": "中田あすみ/寺門仁美/浅野まゆみ",
+    "language": "日语",
+    "remarks": "中/日",
+    "initial": "日语"
+  },
+  {
+    "": 519,
+    "song_name": "撫でんな",
+    "artist": "柊マグネタイト",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 520,
+    "song_name": "割れたリンゴ",
+    "artist": "種田梨沙",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 521,
+    "song_name": "Plastic Love",
+    "artist": "竹内まりや",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 522,
+    "song_name": "紗痲",
+    "artist": "煮ル果実",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 523,
+    "song_name": "ヲズワルド（WOZWALD）",
+    "artist": "煮ル果実",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 524,
+    "song_name": "薄ら氷心中",
+    "artist": "椎名林檎",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 525,
+    "song_name": "丸の内サディスティック（丸之内虐待狂）",
+    "artist": "椎名林檎",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 526,
+    "song_name": "ギブス(石膏)",
+    "artist": "椎名林檎",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 527,
+    "song_name": "修羅場",
+    "artist": "椎名林檎",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 528,
+    "song_name": "丸之内虐待狂x水星Remix",
+    "artist": "椎名林檎",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 529,
+    "song_name": "長く短い祭",
+    "artist": "椎名林檎",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 530,
+    "song_name": "初恋日记",
+    "artist": "椎香moimi",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  },
+  {
+    "": 531,
+    "song_name": "Ring of Fortune",
+    "artist": "佐佐木惠梨",
+    "language": "日语",
+    "remarks": "",
+    "initial": "日语"
+  }
+]
