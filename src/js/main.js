@@ -1,11 +1,7 @@
-/* CS409 MP1 - Sumire's Songlist */
+/* CS409 MP1 - Sumireji's Songlist */
 
-/* Update this timestamp after each live stream ends (UTC+8).
-   Keep it inside the last NEXT_STREAM_HOURS hours, otherwise the page shows the "may be live" state. */
-const LAST_LIVE_END = "2026-09-22T21:00:00+08:00";
-
-/* Hours between two streams. The next stream is guessed from the timestamp above. */
-const NEXT_STREAM_HOURS = 24;
+/* Update this timestamp after each live stream ends (UTC+8). */
+const LAST_LIVE_END = "2026-08-31T13:17:14+08:00";
 
 /* ---------- navbar: shrink, active link, smooth scroll ---------- */
 const navbar = document.getElementById("navbar");
@@ -97,8 +93,7 @@ document.getElementById("carousel-next").addEventListener("click", function () {
     showSlide(slideIndex + 1);
 });
 
-/* ---------- live countdown ---------- */
-const countdownLabel = document.getElementById("countdown-label");
+/* ---------- time since the last stream ---------- */
 const countdownDays = document.getElementById("timer-days");
 const countdownDaysUnit = document.getElementById("timer-days-unit");
 const countdownHms = document.getElementById("timer-hms");
@@ -108,40 +103,32 @@ function pad2(number) {
     return number < 10 ? "0" + number : "" + number;
 }
 
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
 function formatDateTime(epoch) {
     // shown in UTC+8, the time zone of the streamer
     const date = new Date(epoch);
     const beijing = new Date(date.getTime() + (date.getTimezoneOffset() + 480) * 60000);
-    return beijing.getFullYear() + "-" + pad2(beijing.getMonth() + 1) + "-" + pad2(beijing.getDate()) +
-        " " + pad2(beijing.getHours()) + ":" + pad2(beijing.getMinutes());
+    const hour24 = beijing.getHours();
+    const hour12 = hour24 % 12 === 0 ? 12 : hour24 % 12;
+
+    return MONTHS[beijing.getMonth()] + " " + beijing.getDate() + ", " + beijing.getFullYear() +
+        ", " + hour12 + ":" + pad2(beijing.getMinutes()) + " " + (hour24 < 12 ? "AM" : "PM");
 }
 
 function updateCountdown() {
     const lastEnd = new Date(LAST_LIVE_END).getTime();
-    const nextStream = lastEnd + NEXT_STREAM_HOURS * 3600 * 1000;
-    const left = nextStream - Date.now();
+    const total = Math.floor((Date.now() - lastEnd) / 1000);
+    const days = Math.floor(total / 86400);
+    const hours = Math.floor((total % 86400) / 3600);
+    const minutes = Math.floor((total % 3600) / 60);
+    const seconds = total % 60;
 
-    if (left <= 0) {
-        // the expected time has passed, so she may already be streaming
-        countdownLabel.textContent = "Stream may be live — check bilibili";
-        countdownDays.textContent = "0";
-        countdownDays.hidden = true;
-        countdownDaysUnit.hidden = true;
-        countdownHms.textContent = "--:--:--";
-    } else {
-        const total = Math.floor(left / 1000);
-        const days = Math.floor(total / 86400);
-        const hours = Math.floor((total % 86400) / 3600);
-        const minutes = Math.floor((total % 3600) / 60);
-        const seconds = total % 60;
-
-        countdownLabel.textContent = "Time left until the next stream is expected";
-        countdownDays.textContent = days;
-        countdownDays.hidden = days === 0;
-        countdownDaysUnit.hidden = days === 0;
-        countdownDaysUnit.textContent = days === 1 ? "day" : "days";
-        countdownHms.textContent = pad2(hours) + ":" + pad2(minutes) + ":" + pad2(seconds);
-    }
+    countdownDays.textContent = days;
+    countdownDays.hidden = days === 0;
+    countdownDaysUnit.hidden = days === 0;
+    countdownDaysUnit.textContent = days === 1 ? "day" : "days";
+    countdownHms.textContent = pad2(hours) + ":" + pad2(minutes) + ":" + pad2(seconds);
 
     lastLiveText.textContent = "Last stream ended: " + formatDateTime(lastEnd) + " (UTC+8)";
 }

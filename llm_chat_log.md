@@ -17,6 +17,14 @@ Date: 2026-09-22
 
 **Assistant:** I added a static Live Countdown section between the hero and the About section. The timestamp is a clearly marked constant LAST_LIVE_END at the top of main.js that you update manually after each stream, and a note under the countdown explains it is a static demo and links to the real site gjsg.live. The whole site is fully static and deploys to GitHub Pages through the included Actions workflow. I verified the webpack production build and tested all 16 required features in the browser, wrote this chat log, and pushed everything to the repository.
 
+**User:** A few small optimizations. First, the timer should count the time elapsed since the last live stream — fetch the latest data from the real website. Second, translate the text in the JSON where possible, at least the artists that have English names and the language field.
+
+**Assistant:** I fetched the real data from gjsg.live: the last stream ended on Aug 31, 2026, 1:17 PM (UTC+8). I changed the timer from a countdown into an elapsed-time counter ("Since Last Stream") using that real timestamp, and translated songlist.json: all language fields into English, 98 artist names with well-known English names (177 entries), and all 18 remarks. Song titles stay in the original language since the song-request command needs them.
+
+**User:** One more thing — the streamer's official English name is Sumireji, not Sumire. Change all related texts.
+
+**Assistant:** Replaced every "Sumire" with "Sumireji" across the site (navbar logo, hero title, About section, song panel, footer — 14 places), verified the build, and pushed everything.
+
 ## Model Usage
 
 All model requests in this session were routed through a local LiteLLM proxy at `http://127.0.0.1:4000`.
